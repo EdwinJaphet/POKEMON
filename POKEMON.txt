@@ -41,6 +41,4 @@ function getPokemonDetails(pokemonName) {
         console.error('Error al obtener detalles del Pokémon:', error);
     });
 }
-
-// Llamar a la función principal
 pokemonList();
